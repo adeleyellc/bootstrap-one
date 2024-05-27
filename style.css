@@ -1,0 +1,41 @@
+header {
+    background-image: url(./images/Image\ \(10\).png);
+    background-color: #2F1893;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 610px !important;
+    padding-bottom: 3rem !important;
+}
+
+.mtbtn, .btnup {
+    background-color:#fff;
+    color: #482BE7;
+    padding: 8px 18px;
+    border: 1px;
+}
+
+.mtbtn2 {
+    background-color:#fff;
+    color: #482BE7;
+    padding: 8px 18px;
+    border: 1px solid;
+}
+
+.hero-section h1 {
+    font-size: 40px;
+}
+
+.hero-section p {
+    font-size: 13px;
+}
+
+.btnup {
+    padding: 3px 18px;
+}
+
+.confirmwa {
+    margin: 0px 140px;
+    padding-top: 100px
+}
